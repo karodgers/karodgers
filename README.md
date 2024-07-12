@@ -9,15 +9,15 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaunda.rodgers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodgers-kaunda)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/#)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/#)
 
 
-## 🌐 What I currently do
+## 🎓 What I currently do
 - 🏡 I'm currently working at @Zone01Kisumu @LakeHub
-- 🔭 I’m currently working different golang projects with @Zone01Kisumu apprentices
+- 🔭 I’m currently working on different collaborative, golang projects with @Zone01Kisumu apprentices
 - 🌱 I’m currently learning Rust and JavaScript
 - 👯 I’m looking to collaborate on [Open Source Projects, Golang Libraries, etc.]
 - 💬 Ask me about Golang, software architecture, or anything tech-related
@@ -41,9 +41,9 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Post Title](https://yourblog.com/post-link)
-- [Post Title](https://yourblog.com/post-link)
-- [Post Title](https://yourblog.com/post-link)
+- [One](https://yourblog.com/post-link/#)
+- [Two](https://yourblog.com/post-link/#)
+- [Three](https://yourblog.com/post-link/#)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact Me
