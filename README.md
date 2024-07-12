@@ -10,9 +10,9 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodgers-kaunda)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/#)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](#)
 
 
 ## 🎓 What I currently do
@@ -41,9 +41,9 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One](https://yourblog.com/post-link/#)
-- [Two](https://yourblog.com/post-link/#)
-- [Three](https://yourblog.com/post-link/#)
+- [One](#)
+- [Two](#)
+- [Three](#)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact Me
