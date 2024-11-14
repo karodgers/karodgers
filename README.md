@@ -22,8 +22,12 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 ## 🔧 Tools I Use
 
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## 📝 Recent Blog Posts
@@ -36,7 +40,7 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 
 ## 📧 Contact Me
 
-Feel free to reach out to me at [https://karodgers.github.io/#contact].
+Feel free to reach out to me at [here](https://karodgers.github.io/#contact)
 
 ---
 
