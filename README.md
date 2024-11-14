@@ -10,26 +10,14 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodgers-kaunda)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](#)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/karodgers)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](#)
 
 
 ## 🎓 What I currently do
-- 🏡 I'm currently working at @Zone01Kisumu @LakeHub
-- 🔭 I’m currently working on different collaborative, golang projects with @Zone01Kisumu apprentices
-- 🌱 I’m currently learning Rust and JavaScript
-- 👯 I’m looking to collaborate on [Open Source Projects, Golang Libraries, etc.]
-- 💬 Ask me about Golang, software architecture, or anything tech-related
+- 🔭 I’m currently working on different collaborative, golang, Rust, JavaScript, and Python projects at @Zone01Kisumu 
+- 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: I love playing chess
-
-## 🛠️ Tech Stack
-
-![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔧 Tools I Use
 
@@ -41,14 +29,14 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One](#)
-- [Two](#)
-- [Three](#)
+- [The Future of Web Development](https://karodgers.github.io/blog/the-future-of-web-development-whats-next-in-2025.html)
+- [Advanced React Performance Optimization Techniques](https://karodgers.github.io/blog/advanced-react-performance-optimization-techniques.html)
+- [Building Scalable Microservices With Go](https://karodgers.github.io/blog/building-scalable-microservices-with-go.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📧 Contact Me
 
-Feel free to reach out to me via email at [hidden].
+Feel free to reach out to me at [https://karodgers.github.io/#contact].
 
 ---
 
