@@ -62,7 +62,6 @@ I’m **Rodgers Kaunda**, a dedicated **Software Engineer** from Kisumu, Kenya. 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karodgers&show_icons=true&theme=tokyonight" alt="Rodgers' GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karodgers&theme=tokyonight" alt="GitHub Streak">
 </div>
 
