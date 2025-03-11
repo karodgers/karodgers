@@ -19,7 +19,6 @@ I’m **Rodgers Kaunda**, a dedicated **Software Engineer** from Kisumu, Kenya. 
   <a href="https://www.linkedin.com/in/rodgers-kaunda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/karodgers"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
   <a href="https://medium.com/@karodgers"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:rodgers.kaunda@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
@@ -52,11 +51,11 @@ I’m **Rodgers Kaunda**, a dedicated **Software Engineer** from Kisumu, Kenya. 
 ---
 
 ## 📝 Recent Blog Posts
-- **[The Future of Web Development: What's Next in 2025](https://karodgers.github.io/blog/the-future-of-web-development)** - Trends shaping the web  
-- **[Advanced React Performance Optimization Techniques](https://karodgers.github.io/blog/advanced-react-performance)** - Boosting React efficiency  
-- **[Building Scalable Microservices with Go](https://karodgers.github.io/blog/building-scalable-microservices-with-go)** - Microservices deep dive  
+- **[The Future of Web Development: What's Next in 2025](https://karodgers.github.io/blog/the-future-of-web-development-whats-next-in-2025.html)** - Trends shaping the web  
+- **[Advanced React Performance Optimization Techniques](https://karodgers.github.io/blog/advanced-react-performance-optimization-techniques.html)** - Boosting React efficiency  
+- **[Building Scalable Microservices with Go](https://karodgers.github.io/blog/building-scalable-microservices-with-go.html)** - Microservices deep dive  
 
-➡️ *[Check out my blog](https://karodgers.github.io/blog/)*
+➡️ *[Check out my blog](https://karodgers.github.io/)*
 
 ---
 
@@ -70,7 +69,6 @@ I’m **Rodgers Kaunda**, a dedicated **Software Engineer** from Kisumu, Kenya. 
 ## 📬 Let’s Connect!
 I’m always open to collaborating on **software projects**, discussing **open-source ideas**, or exploring new opportunities. Reach me at:
 
-- **Email**: [rodgers.kaunda@example.com](mailto:rodgers.kaunda@example.com)  
 - **Website**: [karodgers.github.io](https://karodgers.github.io/#contact)  
 - **LinkedIn**: [Rodgers Kaunda](https://www.linkedin.com/in/rodgers-kaunda)  
 
@@ -78,5 +76,4 @@ I’m always open to collaborating on **software projects**, discussing **open-s
 
 <div align="center">
   <i>Thanks for visiting! Let’s create something extraordinary together.</i>  
-  <img src="https://img.shields.io/badge/karodgers-%23FF5733.svg?style=for-the-badge&logo=github&logoColor=white" alt="karodgers">
 </div>
