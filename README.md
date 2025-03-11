@@ -1,82 +1,83 @@
-# Hi there, I'm Rodgers Kaunda! 👋
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karodgers.karodgers)  
-![GitHub Followers](https://img.shields.io/github/followers/karodgers?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/karodgers?style=social)
+<div align="center">
+  <h1>👋 Hi, I’m Rodgers Kaunda!</h1>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=karodgers.karodgers" alt="Visitors">
+</div>
 
 ---
 
 ## 🚀 About Me
+I’m **Rodgers Kaunda**, a dedicated **Software Engineer** from Kisumu, Kenya. I specialize in building high-performance, scalable solutions with **Golang**, **Rust**, **JavaScript**, and **Python**. Passionate about solving complex problems, I’m an active contributor to open-source projects and enjoy pushing the boundaries of technology. Outside of coding, I’m a chess enthusiast who loves strategic challenges.
 
-I’m a **Software Engineer** with expertise in **Golang, Rust, JavaScript, and Python**. I specialize in building high-performance applications, contributing to open-source projects, and architecting scalable solutions. My passion lies in solving complex problems, optimizing algorithms, and constantly exploring emerging technologies.
-
-### 💡 Core Expertise
-- Backend Development with **Go** & **Rust**
-- Scalable System Design & Microservices Architecture
-- Performance Optimization & Low-latency Systems
-- Full-stack Development with **JavaScript** & **Python**
-- Open-source Contributions & Community Engagement
+- 🌍 **Location**: Kisumu, Kenya  
+- 💼 **Focus**: Crafting robust applications and sharing knowledge  
+- 🌱 **Currently Exploring**: Advanced Rust concurrency and distributed systems  
 
 ---
 
-## 🎯 Current Focus
-- 🚀 Building scalable applications at **[@Zone01Kisumu](https://github.com/Zone01Kisumu)**.
-- 🤝 Actively contributing to **open-source** initiatives.
-- 📈 Enhancing **system performance and optimization** in high-load environments.
-- ♟️ Strategic problem-solving through **chess and AI-driven algorithms**.
+## 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodgers-kaunda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://dev.to/karodgers"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+  <a href="https://medium.com/@karodgers"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:rodgers.kaunda@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
+
+---
+
+## 🎓 What I’m Working On
+- 🚀 Developing scalable applications with **Go**, **Rust**, **JavaScript**, and **Python**  
+- 💡 Contributing to open-source projects and the developer community  
+- 🏆 Exploring innovative solutions to real-world challenges  
+- ♟️ Honing my problem-solving skills through chess  
 
 ---
 
 ## 🔧 Tech Stack & Tools
-
 ### 🚀 Languages & Frameworks
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
 ### 🛠️ Development & DevOps
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
 
 ---
 
 ## 📝 Recent Blog Posts
+- **[The Future of Web Development: What's Next in 2025](https://karodgers.github.io/blog/the-future-of-web-development)** - Trends shaping the web  
+- **[Advanced React Performance Optimization Techniques](https://karodgers.github.io/blog/advanced-react-performance)** - Boosting React efficiency  
+- **[Building Scalable Microservices with Go](https://karodgers.github.io/blog/building-scalable-microservices-with-go)** - Microservices deep dive  
 
-<!-- BLOG-POST-LIST:START -->
-- [The Future of Web Development](https://karodgers.github.io/blog/the-future-of-web-development-whats-next-in-2025.html)
-- [Advanced React Performance Optimization Techniques](https://karodgers.github.io/blog/advanced-react-performance-optimization-techniques.html)
-- [Building Scalable Microservices With Go](https://karodgers.github.io/blog/building-scalable-microservices-with-go.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ *[See all posts](https://karodgers.github.io/blog/)*
+➡️ *[Check out my blog](https://karodgers.github.io/blog/)*
 
 ---
 
-## 📬 Let's Connect!
-💬 I'm always open to discussing **software development, open-source projects, and new opportunities**.
-
-📩 Reach me via:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Website**: [karodgers.github.io](https://karodgers.github.io/#contact)
-- **LinkedIn**: [Rodgers Kaunda](https://www.linkedin.com/in/rodgers-kaunda)
-- **Twitter/X**: [@karodgers](https://twitter.com/karodgers)
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karodgers&show_icons=true&theme=tokyonight" alt="Rodgers' GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karodgers&theme=tokyonight" alt="GitHub Streak">
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity
-![Rodgers' GitHub stats](https://github-readme-stats.vercel.app/api?username=karodgers&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karodgers&layout=compact&theme=tokyonight)
+## 📬 Let’s Connect!
+I’m always open to collaborating on **software projects**, discussing **open-source ideas**, or exploring new opportunities. Reach me at:
 
-### 🏆 Achievements
-- 🏅 **100+ Contributions** to Open-source projects.
-- ⭐ **Top Contributor** in various repositories.
-- 🔥 **Active Maintainer** of high-performance applications.
+- **Email**: [rodgers.kaunda@example.com](mailto:rodgers.kaunda@example.com)  
+- **Website**: [karodgers.github.io](https://karodgers.github.io/#contact)  
+- **LinkedIn**: [Rodgers Kaunda](https://www.linkedin.com/in/rodgers-kaunda)  
 
 ---
 
-*Thank you for visiting my profile! Have an amazing day!* 🚀
+<div align="center">
+  <i>Thanks for visiting! Let’s create something extraordinary together.</i>  
+  <img src="https://img.shields.io/badge/karodgers-%23FF5733.svg?style=for-the-badge&logo=github&logoColor=white" alt="karodgers">
+</div>
