@@ -1,11 +1,10 @@
+# Hi there, I'm Rodgers Kaunda! 👋
 
-# Hello, I'm Rodgers! 👋
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karodgers.karodgers)
 
 ## 🚀 About Me
 
-I'm a passionate software developer specializing in **Golang**. I enjoy solving complex problems, contributing to open-source projects, and constantly learning new technologies.
+I'm a software engineer with expertise in **Golang, Rust, JavaScript, and Python**. I thrive on solving complex problems, contributing to open-source projects, and building scalable applications.
 
 ## 🌐 Connect with Me
 
@@ -13,22 +12,24 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/karodgers)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](#)
 
+## 🎓 What I'm Working On
+- 🚀 Developing scalable applications using **Go**, **Rust**, **JavaScript**, and **Python**.
+- 💡 Collaborating on projects at **[@Zone01Kisumu](https://github.com/Zone01Kisumu)**.
+- 🏆 Contributing to **open-source** initiatives.
+- ♟️ Chess enthusiast who enjoys strategic problem-solving.
 
-## 🎓 What I currently do
-- 🔭 I’m currently working on different collaborative, golang, Rust, JavaScript, and Python projects at @Zone01Kisumu 
-- 👯 I’m looking to collaborate on open source projects.
-- ⚡ Fun fact: I love playing chess
+## 🔧 Tech Stack & Tools
 
-## 🔧 Tools I Use
-
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Languages & Frameworks
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🛠️ Development & DevOps
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📝 Recent Blog Posts
 
@@ -38,12 +39,20 @@ I'm a passionate software developer specializing in **Golang**. I enjoy solving 
 - [Building Scalable Microservices With Go](https://karodgers.github.io/blog/building-scalable-microservices-with-go.html)
 <!-- BLOG-POST-LIST:END -->
 
-## 📧 Contact Me
+➡️ *[See all posts](https://karodgers.github.io/blog/)*
 
-Feel free to reach out to me at [here](https://karodgers.github.io/#contact)
+## 📬 Let's Connect!
+
+💬 I'm always open to discussing **software development, open-source projects, and new opportunities**.
+
+📩 Reach me via:
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Website**: [karodgers.github.io](https://karodgers.github.io/#contact)
+- **LinkedIn**: [Rodgers Kaunda](https://www.linkedin.com/in/rodgers-kaunda)
+
+## 📊 GitHub Stats
+![Rodgers' GitHub stats](https://github-readme-stats.vercel.app/api?username=karodgers&show_icons=true&theme=tokyonight)
 
 ---
 
 *Thank you for visiting my profile! Have a great day!*
-
-
