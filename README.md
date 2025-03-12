@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>👋 Hi, I’m Rodgers Kaunda!</h1>
+  <h1>👋 Hi, I’m Rodgers!</h1>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=karodgers.karodgers" alt="Visitors">
 </div>
 
 ---
 
 ## 🚀 About Me
-I’m **Rodgers Kaunda**, a dedicated **Software Engineer** from Kisumu, Kenya. I specialize in building high-performance, scalable solutions with **Golang**, **Rust**, **JavaScript**, and **Python**. Passionate about solving complex problems, I’m an active contributor to open-source projects and enjoy pushing the boundaries of technology. Outside of coding, I’m a chess enthusiast who loves strategic challenges.
+I’m **Rodgers**, a dedicated **Software Engineer** from Kisumu, Kenya. I specialize in building high-performance, scalable solutions with **Golang**, **Rust**, **JavaScript**, and **Python**. Passionate about solving complex problems, I’m an active contributor to open-source projects and enjoy pushing the boundaries of technology. Outside of coding, I’m a chess enthusiast who loves strategic challenges.
 
 - 🌍 **Location**: Kisumu, Kenya  
 - 💼 **Focus**: Crafting robust applications and sharing knowledge  
@@ -70,7 +70,7 @@ I’m **Rodgers Kaunda**, a dedicated **Software Engineer** from Kisumu, Kenya. 
 I’m always open to collaborating on **software projects**, discussing **open-source ideas**, or exploring new opportunities. Reach me at:
 
 - **Website**: [karodgers.github.io](https://karodgers.github.io/#contact)  
-- **LinkedIn**: [Rodgers Kaunda](https://www.linkedin.com/in/rodgers-kaunda)  
+- **LinkedIn**: [Rodgers](https://www.linkedin.com/in/rodgers-kaunda)  
 
 ---
 
