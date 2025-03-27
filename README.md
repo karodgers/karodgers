@@ -20,7 +20,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>Thanks for visiting! Let’s create something extraordinary together.</i>  
-</div>
