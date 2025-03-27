@@ -12,9 +12,7 @@
   <a href="https://medium.com/@karodgers"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>
 
----
 
-##  GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karodgers&theme=tokyonight" alt="GitHub Streak">
 </div>
