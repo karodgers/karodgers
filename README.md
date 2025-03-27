@@ -6,7 +6,6 @@
 ---
 
 
-## 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/rodgers-kaunda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/karodgers"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
@@ -15,8 +14,8 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
-### 🚀 Languages & Frameworks
+## Tech Stack & Tools
+### Languages & Frameworks
 <div>
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
-### 🛠️ Development & DevOps
+###  Development & DevOps
 <div>
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -34,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karodgers&theme=tokyonight" alt="GitHub Streak">
 </div>
